@@ -8,3 +8,4 @@ Next, make sure you update the JDK version number in the script. The version of 
 
 If you are installing fortify, then create add a fortify-distro directory and setup fortify for a non-interactive install.
 
+
